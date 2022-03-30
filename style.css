@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #ffffff;
+}
+
+#Education {
+  background-color: #e2edff;
+}
+#Certificate {
+  background-color: #e2edff;
+}
+#contact {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+ion-icon {
+  font-size: 40px;
+}
